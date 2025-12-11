@@ -7,7 +7,7 @@ nav: true
 ---
 
 
-ArXiv
+ArXiv \\
 =====
 Natural constraints explain working memory capacity limitations in sensory-cognitive models
 ------
@@ -15,7 +15,7 @@ Natural constraints explain working memory capacity limitations in sensory-cogni
 Yudi Xie, Yu Duan, Aohua Cheng, **Pengcen Jiang**, Christopher J. Cueva, Guangyu Robert Yang
 
 
-Conferences
+Conferences \\
 =====
 Indoctrinating students is harder than you think: highly constraining RNNs is no guarantee of their quality as surrogates for the brain
 ------
@@ -48,7 +48,7 @@ Human-like capacity limitation in multi-system models of working memory
 Yudi Xie, Yu Duan, Aohua Cheng, **Pengcen Jiang**, Christopher J. Cueva, Guangyu Robert Yang
 
 
-Other Journals
+Other Journals \\
 =====
 Capillary condensation under nano-confinement: A supplement to the 150-year-old Kelvin equation
 ------
