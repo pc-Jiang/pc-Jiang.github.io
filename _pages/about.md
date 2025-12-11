@@ -21,7 +21,7 @@ I build machine learning models and neural networks to understand the brain. Cur
 
 Fun fact about me
 ------
-When typing my name 'Pengcen', the autocorrection always want to change it to 'Penguin'. Am I the first penguin doing academia? 
+When typing my name 'Pengcen', the autocorrection always wants to change it to 'Penguin'. Am I the first penguin doing academia? 
 
 
 
