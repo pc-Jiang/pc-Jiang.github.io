@@ -9,6 +9,7 @@ nav: true
 
 ArXiv
 =====
+
 Natural constraints explain working memory capacity limitations in sensory-cognitive models
 ------
 *bioRxiv (2023)* \\
@@ -17,6 +18,7 @@ Yudi Xie, Yu Duan, Aohua Cheng, **Pengcen Jiang**, Christopher J. Cueva, Guangyu
 
 Conferences
 =====
+
 Indoctrinating students is harder than you think: highly constraining RNNs is no guarantee of their quality as surrogates for the brain
 ------
 *2025 Conference on Society for Neuroscience (SfN)* \\
@@ -50,7 +52,9 @@ Yudi Xie, Yu Duan, Aohua Cheng, **Pengcen Jiang**, Christopher J. Cueva, Guangyu
 
 Other Journals
 =====
+
 Capillary condensation under nano-confinement: A supplement to the 150-year-old Kelvin equation
+------
 *Chinese Science Bulletin (2021)* \\
 Fengchao Wang, **Pengcen Jiang**, Qiong Fan
 
