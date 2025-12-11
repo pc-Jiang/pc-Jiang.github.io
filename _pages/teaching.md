@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 permalink: /teaching/
 title: Teaching Experience
 description: A list of courses I have taught and assisted with.
