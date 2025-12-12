@@ -13,7 +13,7 @@ DSC257R Unsupervised Learning
 Graduate course. Instructor: Dr. Sanjoy Dasgupta
 
 
-<div style="height: 5px;"></div>
+<div style="height: 2px;"></div>
 
 <span style="font-size: 1.1em; font-weight: bold;">
 DSC212 Probability and Statistics for Data Science
@@ -22,7 +22,7 @@ DSC212 Probability and Statistics for Data Science
 Graduate course. Instructor: Dr. Hossein Taheri
 
 
-<div style="height: 5px;"></div>
+<div style="height: 2px;"></div>
 
 
 <span style="font-size: 1.1em; font-weight: bold;">

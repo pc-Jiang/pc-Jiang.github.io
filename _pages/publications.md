@@ -23,7 +23,7 @@ Indoctrinating students is harder than you think: highly constraining RNNs is no
 *2025 Conference on Society for Neuroscience (SfN)* \\
 **Pengcen Jiang**, Hamza Giaffar, Zida Jin, Yixin Yuan, Adam Charles, Mikio Aoi
 
-<div style="height: 5px;"></div>
+<div style="height: 2px;"></div>
 
 <span style="font-size: 1.1em; font-weight: bold;">
 Neural connectivity constrains computation in the insect Lateral Horn
@@ -31,7 +31,7 @@ Neural connectivity constrains computation in the insect Lateral Horn
 *2025 Conference on Society for Neuroscience (SfN)* \\
 Hamza Giaffar, **Pengcen Jiang**, Camille E. Rullán Buxó, Mikio Aoi
 
-<div style="height: 5px;"></div>
+<div style="height: 2px;"></div>
 
 <span style="font-size: 1.1em; font-weight: bold;">
 Recurrent Neural Networks Utilize Different Mechanisms when Learning Kalman Systems
@@ -39,7 +39,7 @@ Recurrent Neural Networks Utilize Different Mechanisms when Learning Kalman Syst
 *2024 Conference on Society for Neuroscience (SfN)* \\
 **Pengcen Jiang**, Adam Charles, Mikio Aoi
 
-<div style="height: 5px;"></div>
+<div style="height: 2px;"></div>
 
 <span style="font-size: 1.1em; font-weight: bold;">
 Human-like capacity limits in working memory models result from naturalistic sensory constraints
@@ -47,7 +47,7 @@ Human-like capacity limits in working memory models result from naturalistic sen
 *2023 Conference on Computational and Systems Neuroscience (COSYNE)* \\
 Yudi Xie, Yu Duan, Aohua Cheng, **Pengcen Jiang**, Christopher J. Cueva, Guangyu Robert Yang
 
-<div style="height: 5px;"></div>
+<div style="height: 2px;"></div>
 
 <span style="font-size: 1.1em; font-weight: bold;">
 Human-like capacity limitation in multi-system models of working memory
