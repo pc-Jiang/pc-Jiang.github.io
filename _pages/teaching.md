@@ -7,6 +7,14 @@ nav: true
 ---
 
 <span style="font-size: 1.1em; font-weight: bold;">
+DSC20 Programing/DataStructure for Data Science
+</span>
+*Teaching assistant, Winter 2026, UCSD* \\
+Undergraduate course. Instructor: Dr. Marina Langlois
+<!-- [website](https://dsc20.org/) -->
+
+
+<span style="font-size: 1.1em; font-weight: bold;">
 DSC257R Unsupervised Learning
 </span>
 *Teaching assistant, Fall 2025, UCSD* \\
