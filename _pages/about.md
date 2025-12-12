@@ -17,15 +17,15 @@ I develop machine learning models and neural networks to study how the brain giv
 1. Studying how neural connectivity (the connectome) constrains and enables computation.
 
 
-
 News
 -----
-**2025.08** Pengcen was invited to give a talk at the research seminar of Research Experiences for Undergraduates, California State University, Northridge. 
+**2025.07** -- Invited talk at the Research Experiences for Undergraduates (REU) seminar, California State University, Northridge.
 
 
 Fun fact about me
 ------
-When typing my name 'Pengcen', the autocorrection always wants to change it to 'Penguin'. Am I the first penguin doing academia? 
+When typing my name, *Pengcen*, autocorrect insists on changing it to *“Penguin”*.
+Possibly the first penguin 🐧 in computational neuroscience. 
 
 
 
