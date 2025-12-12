@@ -19,6 +19,11 @@ I build machine learning models and neural networks to understand the brain. Cur
 
 
 
+News
+-----
+2025.08 Pengcen was invited to give a talk at the seminar of Research Experiences for Undergraduates, California State University, Northridge. 
+
+
 Fun fact about me
 ------
 When typing my name 'Pengcen', the autocorrection always wants to change it to 'Penguin'. Am I the first penguin doing academia? 
