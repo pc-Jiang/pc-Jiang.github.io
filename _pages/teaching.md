@@ -29,7 +29,7 @@ Graduate course. Instructor: Dr. Hossein Taheri
 Introduction to Computational Neuroscience
 </span>
 *Teaching assistant, Fall 2021, USTC* \\
-Undergrade course. Instructor: Dr. Quan Wen
+Undergraduate course. Instructor: Dr. Quan Wen
 
 
 
