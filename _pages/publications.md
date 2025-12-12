@@ -6,6 +6,7 @@ description: A list of my publications
 nav: true
 ---
 
+Check my [Google scholar](https://scholar.google.com/citations?user=KERMCvIAAAAJ&hl=en) for details! \\
 
 ## Preprint
 <span style="font-size: 1.1em; font-weight: bold;">
