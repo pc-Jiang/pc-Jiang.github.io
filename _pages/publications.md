@@ -12,7 +12,7 @@ nav: true
 Natural constraints explain working memory capacity limitations in sensory-cognitive models
 </span>
 *bioRxiv (2023)* \\
-Yudi Xie, Yu Duan, Aohua Cheng, **Pengcen Jiang**, Christopher J. Cueva, Guangyu Robert Yang
+Yudi Xie, Yu Duan, Aohua Cheng, **Pengcen Jiang**, Christopher J. Cueva, Guangyu Robert Yang \\
 [paper](https://www.biorxiv.org/content/10.1101/2023.03.30.534982v1)
 
 

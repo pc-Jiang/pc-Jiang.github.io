@@ -10,8 +10,8 @@ nav: true
 DSC257R Unsupervised Learning
 </span>
 *Teaching assistant, Fall 2025, UCSD* \\
-Instructor: Dr. Sanjoy Dasgupta
-Graduate course
+Graduate course. Instructor: Dr. Sanjoy Dasgupta
+
 
 <div style="height: 25px;"></div>
 
@@ -19,8 +19,8 @@ Graduate course
 DSC212 Probability and Statistics for Data Science
 </span>
 *Teaching assistant, Spring 2025, UCSD* \\
-Instructor: Dr. Hossein Taheri
-Graduate course
+Graduate course. Instructor: Dr. Hossein Taheri
+
 
 <div style="height: 25px;"></div>
 
@@ -29,7 +29,7 @@ Graduate course
 Introduction to Computational Neuroscience
 </span>
 *Teaching assistant, Fall 2021, USTC* \\
-Instructor: Dr. Quan Wen
-Undergrade course
+Undergrade course. Instructor: Dr. Quan Wen
+
 
 
