@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Pengcen Jiang (蒋朋岑), a P.h.D. student in Halıcıoğlu Data Science Institute (HDSI) at [UCSD](https://datascience.ucsd.edu/). I'm advised by [Dr. Mikio Aoi](https://www.mikioaoi.com/). 
+Hi! I'm Pengcen Jiang (蒋朋岑), a Ph.D. student in Halıcıoğlu Data Science Institute (HDSI) at [UCSD](https://datascience.ucsd.edu/). I'm advised by [Dr. Mikio Aoi](https://www.mikioaoi.com/). 
 
-Prior to my Phd, I attended the School of the Gifted Young at University of Science and Technology of China [(USTC)](https://en.scgy.ustc.edu.cn/main.htm), where I obtained my B.S. in Physics with a double major in Statistics and Applied Math. During my stay in USTC, I worked with [Dr. Quan Wen](https://www.wenlab.org/people/) and [Dr. Guangyu Robert Yang](https://www.metaconscious.org/people/) as an undergraduate researcher. 
+Prior to my Ph.D., I attended the School of the Gifted Young at University of Science and Technology of China [(USTC)](https://en.scgy.ustc.edu.cn/main.htm), where I obtained my B.S. in Physics with a double major in Statistics and Applied Math. During my stay in USTC, I worked with [Dr. Guangyu Robert Yang](https://www.metaconscious.org/people/) as an undergraduate research intern, and worked on my undergraduate thesis with [Dr. Quan Wen](https://www.wenlab.org/people/). 
 
 
-I build machine learning models and neural networks to understand the brain. Currently, I'm working on
+I build machine learning models and neural networks to understand the brain. Currently, I'm working on: 
 1. Build artificial neural networks that mimicing animal experimental behaviors and analyze underlying mechanisms. 
 1. Investigate the effectiveness and interpretability when using artificial neural networks, especially recurrent neural networks (RNNs), to reproduce the data from a distinct data-generating system, such as the brain. 
 1. Investigate how connectome leads to computation. 
@@ -21,7 +21,7 @@ I build machine learning models and neural networks to understand the brain. Cur
 
 News
 -----
-**2025.08** Pengcen was invited to give a talk at the seminar of Research Experiences for Undergraduates, California State University, Northridge. 
+**2025.08** Pengcen was invited to give a talk at the research seminar of Research Experiences for Undergraduates, California State University, Northridge. 
 
 
 Fun fact about me
