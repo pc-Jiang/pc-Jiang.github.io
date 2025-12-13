@@ -14,13 +14,13 @@ My favorite authors currently include:
 * **Sci-fi:** [Ted Chiang](https://en.wikipedia.org/wiki/Ted_Chiang), [Greg Egan](https://www.gregegan.net/), [Cixin Liu](https://cixinliu.com/)
 * **Literature:** [Virginia Woolf](https://en.wikipedia.org/wiki/Virginia_Woolf), [Irvin Yalom](https://www.yalom.com/books), [Tiesheng Shi](https://en.wikipedia.org/wiki/Shi_Tiesheng)
 
-<br>
 
 ## Book Reviews
 
 I occasionally write book reviews. You can find some of my recent reviews below:
 * **[2024]** **Augustus** by John Williams. My review: <a href="{{ site.baseurl }}/posts/2024/09/Augustus/" target="_blank">[Read Full Review]</a>
 
+<br>
 
 # Charity
 

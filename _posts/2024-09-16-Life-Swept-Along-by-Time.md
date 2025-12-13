@@ -7,10 +7,6 @@ tags:
 author_profile: true
 ---
 
-
-A Man Swept Along by His Time
-=====
-
 —- A Review of John Williams’s *Augustus*
 
 
