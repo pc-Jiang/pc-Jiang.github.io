@@ -7,7 +7,7 @@ tags:
 author_profile: true
 ---
 
-—- A Review of John Williams’s *Augustus*
+— A Review of John Williams’s *Augustus*
 
 
 When people speak of Augustus, what comes to mind?

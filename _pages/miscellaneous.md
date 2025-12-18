@@ -8,7 +8,7 @@ nav: true
 
 # Reading
 
-I enjoy reading across various genres, primarily focusing on **science fiction**, and  **literature**.
+I enjoy reading across various genres, primarily focusing on **science fiction** and  **literature**.
 
 My favorite authors currently include: 
 * **Sci-fi:** [Ted Chiang](https://en.wikipedia.org/wiki/Ted_Chiang), [Greg Egan](https://www.gregegan.net/), [Cixin Liu](https://cixinliu.com/)
@@ -28,7 +28,7 @@ My primary charitable commitment is supporting the education of students in need
 
 ### 📚 **Supporting Rural Middle School Education**
 
-I have been a dedicated supporter of the **Fangcao Young Volunteer Association (芳草青年志愿者协会)** at USTC since **2019**.
+I have been a dedicated supporter of the **Fangcao Young Volunteers Association (芳草社青年志愿者协会)** at USTC since **2019**.
 
 * **Focus:** Providing financial assistance to **two middle school girls** from underserved areas in rural China.
 * **Commitment:** Donations are made **each semester** to ensure sustained support throughout their education. The funds are strictly earmarked to cover **study-related necessities** (such as books, stationery, etc), ensuring direct impact on their academic success.
