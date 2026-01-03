@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! I'm Pengcen Jiang (蒋朋岑), a Ph.D. student at the Halıcıoğlu Data Science Institute (HDSI) at [UCSD](https://datascience.ucsd.edu/). I'm advised by [Dr. Mikio Aoi](https://www.mikioaoi.com/). 
 
-Prior to my Ph.D., I attended the School of the Gifted Young at University of Science and Technology of China [(USTC)](https://en.scgy.ustc.edu.cn/main.htm), where I earned a B.S. in Physics with a double major in Statistics and Applied Mathematics. During my time at USTC, I conducted undergraduate research with [Dr. Guangyu Robert Yang](https://www.metaconscious.org/people/) and completed my undergraduate thesis under the supervision of [Dr. Quan Wen](https://www.wenlab.org/people/). 
+Prior to my Ph.D., I attended the School of the Gifted Young at University of Science and Technology of China [(USTC)](https://en.scgy.ustc.edu.cn/main.htm), where I earned a B.S. in Physics with a double major in Statistics and Applied Mathematics. During my time at USTC, I conducted undergraduate research with [Dr. Guangyu Robert Yang (MIT)](https://www.metaconscious.org/people/) and completed my undergraduate thesis under the supervision of [Dr. Quan Wen (USTC)](https://www.wenlab.org/people/). 
 
 I develop machine learning models and neural networks to study how the brain gives rise to behavior and computation. My current research focuses on:
 1. Building artificial neural networks that replicate animal behavior in experiments, and analyzing the mechanisms that emerge through learning.
