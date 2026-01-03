@@ -7,11 +7,11 @@ nav: true
 ---
 
 <span style="font-size: 1.1em; font-weight: bold;">
-DSC20 Programing/DataStructure for Data Science
+DSC20 Programming and Data Structures for Data Science
 </span>
 *Teaching assistant, Winter 2026, UCSD* \\
 Undergraduate course. Instructor: Dr. Marina Langlois
-<!-- [website](https://dsc20.org/) -->
+[website](https://dsc20.org/)
 
 
 <span style="font-size: 1.1em; font-weight: bold;">
@@ -34,6 +34,7 @@ Introduction to Computational Neuroscience
 </span>
 *Teaching assistant, Fall 2021, USTC* \\
 Undergraduate course. Instructor: Dr. Quan Wen
+[website](https://github.com/Wenlab/Computation-Neuro-Course/tree/Fall2021)
 
 
 
