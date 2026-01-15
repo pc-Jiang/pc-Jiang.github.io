@@ -20,6 +20,7 @@ I develop machine learning models and neural networks to study how the brain giv
 News
 -----
 **2025.12** -- My submission, *Indoctrination is harder than you think: On the use and misuse of RNNs as surrogates for the brain*, has been accepted at Computational and Systems Neuroscience ([Cosyne](https://www.cosyne.org/)) 2026. 
+
 **2025.07** -- Invited talk at the Research Experiences for Undergraduates (REU) seminar, California State University, Northridge.
 
 
