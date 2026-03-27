@@ -19,6 +19,12 @@ Yudi Xie, Yu Duan, Aohua Cheng, **Pengcen Jiang**, Christopher J. Cueva, Guangyu
 
 ## Conferences
 <span style="font-size: 1.1em; font-weight: bold;">
+Indoctrination is harder than you think: On the use and misuse of RNNs as surrogates for the brain
+</span>
+*2026 Computational and Systems Neuroscience (Cosyne)* \\
+**Pengcen Jiang**, Hamza Giaffar, Zida Jin, Yixin Yuan, Adam Charles, Mikio Aoi
+
+<span style="font-size: 1.1em; font-weight: bold;">
 Indoctrinating students is harder than you think: highly constraining RNNs is no guarantee of their quality as surrogates for the brain
 </span>
 *2025 Conference on Society for Neuroscience (SfN)* \\

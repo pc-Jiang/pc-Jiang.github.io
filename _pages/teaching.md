@@ -6,6 +6,15 @@ description: A list of courses I have taught and assisted with.
 nav: true
 ---
 
+
+<span style="font-size: 1.1em; font-weight: bold;">
+DSC140A Probabilistic Modeling and Machine Learning
+</span>
+*Teaching assistant, Spring 2026, UCSD* \\
+Undergraduate course. Instructor: Dr. Mikio Aoi
+<!-- [website](https://dsc20.org/) -->
+
+
 <span style="font-size: 1.1em; font-weight: bold;">
 DSC20 Programming and Data Structures for Data Science
 </span>
