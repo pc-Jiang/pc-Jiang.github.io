@@ -6,13 +6,12 @@ description: A list of courses I have taught and assisted with.
 nav: true
 ---
 
-
 <span style="font-size: 1.1em; font-weight: bold;">
 DSC140A Probabilistic Modeling and Machine Learning
 </span>
 *Teaching assistant, Spring 2026, UCSD* \\
 Undergraduate course. Instructor: Dr. Mikio Aoi
-<!-- [website](https://dsc20.org/) -->
+[website](https://dsc140a.com/)
 
 
 <span style="font-size: 1.1em; font-weight: bold;">
@@ -36,7 +35,6 @@ DSC212 Probability and Statistics for Data Science
 *Teaching assistant, Spring 2025, UCSD* \\
 Graduate course. Instructor: Dr. Hossein Taheri
 <!-- <div style="height: 1px;"></div> -->
-
 
 <span style="font-size: 1.1em; font-weight: bold;">
 Introduction to Computational Neuroscience
