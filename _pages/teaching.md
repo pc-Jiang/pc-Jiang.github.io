@@ -6,11 +6,19 @@ description: A list of courses I have taught and assisted with.
 nav: true
 ---
 
+
+<span style="font-size: 1.1em; font-weight: bold;">
+DSC212 Probability and Statistics for Data Science
+</span>
+*Teaching assistant, Fall 2026, UCSD* \\
+Graduate course. Instructor: Dr. Tiffany Amariuta
+
+
 <span style="font-size: 1.1em; font-weight: bold;">
 DSC140A Probabilistic Modeling and Machine Learning
 </span>
 *Teaching assistant, Spring 2026, UCSD* \\
-Undergraduate course. Instructor: Dr. Mikio Aoi
+Upper-division undergraduate course. Instructor: Dr. Mikio Aoi
 [website](https://dsc140a.com/)
 
 
@@ -18,7 +26,7 @@ Undergraduate course. Instructor: Dr. Mikio Aoi
 DSC20 Programming and Data Structures for Data Science
 </span>
 *Teaching assistant, Winter 2026, UCSD* \\
-Undergraduate course. Instructor: Dr. Marina Langlois
+Lower-division undergraduate course. Instructor: Dr. Marina Langlois
 [website](https://dsc20.org/)
 
 
